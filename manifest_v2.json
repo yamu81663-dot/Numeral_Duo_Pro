@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "979883425857",
+    "restype": "watchface",
+    "name": "双行数字Pro",
+    "description": "双行数字Pro——自由配色的简约大数字表盘",
+    "preview": [
+      "media/2878455C954C666B192DF699B70DF056.jpg",
+      "media/5830F34F8C2CEB9C353359FF08EFF9C9.jpg",
+      "media/C2079C09823551D47DC424C7454389B9.jpg",
+      "media/56D5210F14AE03AC2565327C5906E195.jpg"
+    ],
+    "icon": "media/无标题26_20261025155059.png",
+    "cover": "media/BC1ABEC81935251F7C7938C1466E88D4.jpg",
+    "author": [
+      {
+        "name": "bandbbs_2052034",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.2.5",
+      "file_name": "downloads/双行数字Pro.bin",
+      "versionCode": 66053
+    },
+    "xmb10p": {
+      "version": "1.2.5",
+      "file_name": "downloads/双行数字Pro.bin",
+      "versionCode": 66053
+    }
+  },
+  "ext": {}
+}
