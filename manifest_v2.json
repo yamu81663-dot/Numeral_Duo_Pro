@@ -23,14 +23,26 @@
   "links": [],
   "downloads": {
     "xmb9p": {
-      "version": "1.2.5",
+      "version": "1.2.6",
       "file_name": "downloads/双行数字Pro.bin",
-      "versionCode": 66053
+      "versionCode": 66054,
+      "updatelogs": [
+        {
+          "version": "1.2.6",
+          "content": "修复切换表盘后已保存的配色丢失的问题。"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.2.5",
+      "version": "1.2.6",
       "file_name": "downloads/双行数字Pro.bin",
-      "versionCode": 66053
+      "versionCode": 66054,
+      "updatelogs": [
+        {
+          "version": "1.2.6",
+          "content": "修复切换表盘后已保存的配色丢失的问题。"
+        }
+      ]
     }
   },
   "ext": {}
