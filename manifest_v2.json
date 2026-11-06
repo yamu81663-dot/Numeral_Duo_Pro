@@ -20,7 +20,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "加入迟雪的群聊",
+      "url": "https://qm.qq.com/q/fkQ6n6LxS2",
+      "icon": "chat-circle-dots"
+    }
+  ],
   "downloads": {
     "xmb9p": {
       "version": "1.3.2",
